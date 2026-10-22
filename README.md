@@ -1,16 +1,19 @@
-## Hi there 👋
+Hi, I'm David 👋
 
-<!--
-**Onafuwadav/Onafuwadav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Electronic & Computer Engineering graduate (University of Nottingham, 2026) based in London. I build robotics, embedded and software systems: PCBs and firmware, control loops, computer vision and backend APIs.
 
-Here are some ideas to get you started:
+## Projects
+Project	| What it is | Built with
+|---|---|---|
+Chess Bot	| Chess engine: minmax alpha-beta pruning, piece-square tables, UCI interface. About 1680 Elo against rating-limited Stockfish over 200 games |	C++, CMake, Catch2
+Autofocus | Automated autofocus system for a phonon microscope. Image-sharpness analysis and a hill-climb controller | MATLAB, Python, OpenCV, Arduino
+EEEBot | Robot car that won Best Maze Navigation with a perfect score, PID line following, OpenCV symbol recognition| C++, Arduino, Python, OpenCV, I2C, PID
+Pulse Oximeter | Pulse oximeter for heart rate by FFT and SpO₂ by R-value calculation with link to a LCD display | VHDL	C, Python, VHDL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills
+Languages: C/C++ · Python · Java · MATLAB · VHDL
+Software & Tools: PLECS · Arduino · LTSpice · ADS · STMCubeIDE · SolidWorks · FastAPI · React Native · Git · FastAPI · SQL · OpenCV · Qt · VTK · Git · CMake · GitHub Actions
+
+Up next:
+Chess Bot - Planned: play on a real board, with a camera reading your moves and Chess_bot replying on a small display. 
+A ROS 2 mobile robot in Gazebo (Nav2 + an OpenCV perception node) and STM32 + FreeRTOS motor control with PID.
