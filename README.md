@@ -1,6 +1,6 @@
 Hi, I'm David Onafuwa👋🏾
 
-Electronic & Computer Engineering graduate(University of Nottingham) based in London. I build robotics, embedded and software systems: Computer vision, control loops, PCBs and firmware.
+Electronic & Computer Engineering graduate based in London.
 
 ## Projects
 Project	| What it is | Built with
