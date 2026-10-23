@@ -1,6 +1,4 @@
-Hi, I'm David Onafuwa👋🏾
-
-Electronic & Computer Engineering graduate based in London.
+Hi, I'm David Onafuwa👋🏾 an Electronic & Computer Engineering graduate based in London.
 
 ## Projects
 Project	| What it is | Built with
