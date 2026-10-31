@@ -7,14 +7,15 @@ Project	| What it is | Built with
 [Autofocus](https://github.com/Onafuwadav/autofocus) | Automated autofocus system for a phonon microscope. Image sharpness analysis and a hill-climb controller | MATLAB, Python, OpenCV, Arduino
 | [Attention News Classifier](https://github.com/Onafuwadav/attention-news-classifier) | Multi-head self-attention with GloVe embeddings, verified against PyTorch model. 61.4% accuracy on 210k article dataset | Python, PyTorch, NLTK, scikit-learn |
 [EEEBot](https://github.com/Onafuwadav/EEEBot) | Robot car that won Best Maze Navigation with a perfect score, PID line following, OpenCV symbol recognition | C++, Python, OpenCV, PID
-[Pulse Oximeter](https://github.com/Onafuwadav/pulse-oximeter) | Heart rate by FFT and SpO₂ by R-value calculation with link to a LCD display | C, Python, VHDL
+[Pulse Oximeter](https://github.com/Onafuwadav/pulse-oximeter) | Heart rate by FFT and SpO₂ by R-value calculation shown on an LCD display | C, Python, VHDL
 [VR CAD Viewer](https://github.com/Onafuwadav/vtk-vr-cad-viewer) | Desktop and VR viewer for 3D CAD/STL models | C++, Qt, VTK, OpenVR
 | [UK Electricity Demand Forecast](https://github.com/Onafuwadav/uk-electricity-demand-forecast) | Day ahead forecast of national demand from Elexon BMRS data, with calendar features and time-ordered validation | Python, scikit-learn, pandas, REST APIs |
 
 ## Skills
-**Languages:** C/C++ · Python · Java · MATLAB · VHDL
-
-**Software & Tools:** PLECS · Arduino · LTSpice · SolidWorks · Git · SQL · OpenCV · Qt · VTK · Git · CMake
+**Languages:** C/C++ · Python · Java · MATLAB · VHDL · SQL
+**ML & Data:** PyTorch · scikit-learn · pandas · NumPy · NLTK · Matplotlib
+**Robotics & Vision:** ROS 2 · OpenCV
+**Software & Tools:** · Git · CMake · Arduino · PLECS · LTSpice · SolidWorks · Qt · VTK
 
 ## Up next:
 **Chess Bot:** Play on a real board, with a camera reading your moves and Chess_bot replying on a small display. 
