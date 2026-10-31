@@ -13,8 +13,11 @@ Project	| What it is | Built with
 
 ## Skills
 **Languages:** C/C++ · Python · Java · MATLAB · VHDL · SQL
+
 **ML & Data:** PyTorch · scikit-learn · pandas · NumPy · NLTK · Matplotlib
+
 **Robotics & Vision:** ROS 2 · OpenCV
+
 **Software & Tools:** · Git · CMake · Arduino · PLECS · LTSpice · SolidWorks · Qt · VTK
 
 ## Up next:
