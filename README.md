@@ -20,7 +20,8 @@ Project	| What it is | Built with
 
 **Software & Tools:** · Git · CMake · Arduino · PLECS · LTSpice · SolidWorks · Qt · VTK
 
-## Up next:
-**Chess Bot:** Play on a real board, with a camera reading your moves and Chess_bot replying on a small display. 
-
-A ROS 2 mobile robot in Gazebo (Nav2 + an OpenCV perception node) and STM32 + FreeRTOS motor control with PID.
+## Upcoming
+Project	| What it is | Built with
+|---|---|---|
+[Chess Bot](https://github.com/Onafuwadav/Chess_bot) | Play on a real board, with a camera reading your moves and Chess_bot replying on a small display |	C++, OpenCV, Catch2 |
+[Warehouse Inspector](https://github.com/Onafuwadav/ros2-warehouse-inspector)	| Simulated robot that maps a warehouse, navigates between shelves and checks each shelf label with a camera and image-sharpness score, with a live web dashboard |	ROS 2, Python, C++, Gazebo, FastAPI, React, Docker |
