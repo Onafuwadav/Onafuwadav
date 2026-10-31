@@ -5,9 +5,11 @@ Project	| What it is | Built with
 |---|---|---|
 [Chess Bot](https://github.com/Onafuwadav/Chess_bot)	| Chess engine: Minimax alpha-beta pruning, piece-square tables and a UCI interface. About 1680 Elo against rating-limited Stockfish over 200 games |	C++, CMake, Catch2
 [Autofocus](https://github.com/Onafuwadav/autofocus) | Automated autofocus system for a phonon microscope. Image sharpness analysis and a hill-climb controller | MATLAB, Python, OpenCV, Arduino
+| [Attention News Classifier](https://github.com/Onafuwadav/attention-news-classifier) | Multi-head self-attention built from scratch with GloVe embeddings, verified against PyTorch's own model. 61.4% accuracy, 0.54 macro-F1 on 210k article dataset | Python, PyTorch, NLTK, scikit-learn |
 [EEEBot](https://github.com/Onafuwadav/EEEBot) | Robot car that won Best Maze Navigation with a perfect score, PID line following, OpenCV symbol recognition | C++, Arduino, Python, OpenCV, I2C, PID
 [Pulse Oximeter](https://github.com/Onafuwadav/pulse-oximeter) | Heart rate by FFT and SpO₂ by R-value calculation with link to a LCD display | C, Python, VHDL
-[VR CAD Viewer](https://github.com/Onafuwadav/vtk-vr-cad-viewer) | Desktop and VR viewer for CAD/STL models | C++, Qt, VTK, OpenVR |
+[VR CAD Viewer](https://github.com/Onafuwadav/vtk-vr-cad-viewer) | Desktop and VR viewer for 3D CAD/STL models | C++, Qt, VTK, OpenVR
+| [UK Electricity Demand Forecast](https://github.com/Onafuwadav/uk-electricity-demand-forecast) | Day ahead forecast of national demand from Elexon BMRS data, with calendar features and time-ordered validation | Python, scikit-learn, pandas, REST APIs |
 
 ## Skills
 **Languages:** C/C++ · Python · Java · MATLAB · VHDL
