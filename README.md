@@ -22,7 +22,7 @@ Project	| What it is | Planned to be built with
 
 **Software & Web:** FastAPI · REST APIs · React Native · Qt · VTK · OpenVR
 
-**Robotics & Vision:** ROS 2 · OpenCV · PID control · MQTT · Node-RED
+**Robotics & Vision:** OpenCV · PID control · MQTT · Node-RED
 
 **ML & Data:** PyTorch · scikit-learn · pandas · NumPy · NLTK · Matplotlib
 
