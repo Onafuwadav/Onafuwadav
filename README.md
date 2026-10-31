@@ -3,7 +3,7 @@ Hi, I'm David Onafuwa👋🏾 an Electronic & Computer Engineering graduate base
 ## Projects
 Project	| What it is | Built with
 |---|---|---|
-[Chess Bot](https://github.com/Onafuwadav/Chess_bot)	| Chess engine: Minimax alpha-beta pruning, piece-square tables and a UCI interface. About 1680 Elo against rating-limited Stockfish over 200 games |	C++, CMake, Catch2
+[Chess Bot](https://github.com/Onafuwadav/Chess_bot)	| Chess engine with minimax alpha-beta pruning, piece-square tables and a UCI interface. Around 1680 Elo against Stockfish |	C++, CMake, Catch2
 [Autofocus](https://github.com/Onafuwadav/autofocus) | Automated autofocus system for a phonon microscope. Image sharpness analysis and a hill-climb controller | MATLAB, Python, OpenCV, Arduino
 | [Attention News Classifier](https://github.com/Onafuwadav/attention-news-classifier) | Multi-head self-attention with GloVe embeddings, verified against PyTorch model. 61.4% accuracy on 210k article dataset | Python, PyTorch, NLTK, scikit-learn |
 [EEEBot](https://github.com/Onafuwadav/EEEBot) | Robot car that won Best Maze Navigation with a perfect score, PID line following, OpenCV symbol recognition | C++, Python, OpenCV, PID
