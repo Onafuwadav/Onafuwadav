@@ -71,8 +71,8 @@ I'm an Electronic and Computer Engineering graduate from the University of Notti
   <a href="https://github.com/Onafuwadav/autofocus"><img width="400" src="https://github-stats-extended.vercel.app/api/pin/?username=Onafuwadav&repo=autofocus&theme=shades-of-purple&description_lines_count=3" /></a>
   <a href="https://github.com/Onafuwadav/pulse-oximeter"><img width="400" src="https://github-stats-extended.vercel.app/api/pin/?username=Onafuwadav&repo=pulse-oximeter&theme=shades-of-purple&description_lines_count=3" /></a>
   <br>
-  <a href="https://onafuwadav.github.io/autofocus/"><img width="400" src="assets/demo-autofocus.svg" /></a>
-  <a href="https://onafuwadav.github.io/pulse-oximeter/"><img width="400" src="assets/demo-oximeter.svg" /></a>
+  <a href="https://onafuwadav.github.io/"><img width="400" src="assets/demo-autofocus.svg" /></a>
+  <a href="https://onafuwadav.github.io/"><img width="400" src="assets/demo-oximeter.svg" /></a>
 </p>
 
 <p align="center">
@@ -85,5 +85,5 @@ I'm an Electronic and Computer Engineering graduate from the University of Notti
   <a href="https://github.com/Onafuwadav/EEEBot"><img width="400" src="https://github-stats-extended.vercel.app/api/pin/?username=Onafuwadav&repo=EEEBot&theme=shades-of-purple&description_lines_count=3" /></a>
   <br>
   <a href="https://onafuwadav.github.io/uk-electricity-demand-forecast/"><img width="400" src="assets/demo-forecaster.svg" /></a>
-  <a href="https://onafuwadav.github.io/EEEBot/"><img width="400" src="assets/demo-eeebot.svg" /></a>
+  <a href="https://onafuwadav.github.io/"><img width="400" src="assets/demo-eeebot.svg" /></a>
 </p>
