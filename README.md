@@ -54,9 +54,9 @@ I'm an Electronic and Computer Engineering graduate from the University of Notti
 ## Projects
 ### Project Demos
 <p align="center">
+  <!-- <a href="https://onafuwadav.github.io/ros2-warehouse-inspector/"><img width="400" src="assets/demo-ros.svg" /></a> -->
   <a href="https://onafuwadav.github.io/Chess_bot/"><img width="300" src="assets/demo-chess.svg" /></a>
   <a href="https://onafuwadav.github.io/uk-electricity-demand-forecast/"><img width="300" src="assets/demo-forecaster.svg" /></a>
-  <!-- <a href="https://onafuwadav.github.io/ros2-warehouse-inspector/"><img width="400" src="assets/demo-ros.svg" /></a> -->
   <a href="https://onafuwadav.github.io/"><img width="300" src="assets/demo-autofocus.svg" /></a>
   <a href="https://onafuwadav.github.io/"><img width="300" src="assets/demo-oximeter.svg" /></a>
   <a href="https://onafuwadav.github.io/"><img width="300" src="assets/demo-eeebot.svg" /></a>
