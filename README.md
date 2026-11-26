@@ -3,11 +3,10 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/david-onafuwa/" ><img src="https://img.shields.io/badge/LinkedIn-0077b5?logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0nMjU2JyBoZWlnaHQ9JzI1NicgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJyBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSd4TWlkWU1pZCcgdmlld0JveD0nMCAwIDI1NiAyNTYnPjxwYXRoIGQ9J00yMTguMTIzIDIxOC4xMjdoLTM3LjkzMXYtNTkuNDAzYzAtMTQuMTY1LS4yNTMtMzIuNC0xOS43MjgtMzIuNC0xOS43NTYgMC0yMi43NzkgMTUuNDM0LTIyLjc3OSAzMS4zNjl2NjAuNDNoLTM3LjkzVjk1Ljk2N2gzNi40MTN2MTYuNjk0aC41MWEzOS45MDcgMzkuOTA3IDAgMCAxIDM1LjkyOC0xOS43MzNjMzguNDQ1IDAgNDUuNTMzIDI1LjI4OCA0NS41MzMgNTguMTg2bC0uMDE2IDY3LjAxM1pNNTYuOTU1IDc5LjI3Yy0xMi4xNTcuMDAyLTIyLjAxNC05Ljg1Mi0yMi4wMTYtMjIuMDA5LS4wMDItMTIuMTU3IDkuODUxLTIyLjAxNCAyMi4wMDgtMjIuMDE2IDEyLjE1Ny0uMDAzIDIyLjAxNCA5Ljg1MSAyMi4wMTYgMjIuMDA4QTIyLjAxMyAyMi4wMTMgMCAwIDEgNTYuOTU1IDc5LjI3bTE4Ljk2NiAxMzguODU4SDM3Ljk1Vjk1Ljk2N2gzNy45N3YxMjIuMTZaTTIzNy4wMzMuMDE4SDE4Ljg5QzguNTgtLjA5OC4xMjUgOC4xNjEtLjAwMSAxOC40NzF2MjE5LjA1M2MuMTIyIDEwLjMxNSA4LjU3NiAxOC41ODIgMTguODkgMTguNDc0aDIxOC4xNDRjMTAuMzM2LjEyOCAxOC44MjMtOC4xMzkgMTguOTY2LTE4LjQ3NFYxOC40NTRjLS4xNDctMTAuMzMtOC42MzUtMTguNTg4LTE4Ljk2Ni0xOC40NTMnIGZpbGw9JyNmZmYnLz48L3N2Zz4K" alt="LinkedIn" loading="lazy" /></a>
+  <a href="https://www.linkedin.com/in/david-onafuwa/" ><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn" loading="lazy" /></a>
   <a href="https://onafuwadav.github.io/"><img src="https://img.shields.io/badge/Portfolio-8523DB?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCcgZmlsbD0nbm9uZScgc3Ryb2tlPScjZmZmJyBzdHJva2Utd2lkdGg9JzInIHN0cm9rZS1saW5lY2FwPSdyb3VuZCcgc3Ryb2tlLWxpbmVqb2luPSdyb3VuZCc+PGNpcmNsZSBjeD0nMTInIGN5PScxMicgcj0nMTAnLz48cGF0aCBkPSdNMiAxMmgyME0xMiAyYTE1LjMgMTUuMyAwIDAgMSA0IDEwIDE1LjMgMTUuMyAwIDAgMS00IDEwIDE1LjMgMTUuMyAwIDAgMS00LTEwIDE1LjMgMTUuMyAwIDAgMSA0LTEweicvPjwvc3ZnPg==" alt="Portfolio" loading="lazy" /></a>
   <a href="mailto:Donafuwa@outlook.com"><img src="https://img.shields.io/badge/Email-0078D4?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCcgZmlsbD0nbm9uZScgc3Ryb2tlPScjZmZmJyBzdHJva2Utd2lkdGg9JzInIHN0cm9rZS1saW5lY2FwPSdyb3VuZCcgc3Ryb2tlLWxpbmVqb2luPSdyb3VuZCc+PHJlY3QgeD0nMicgeT0nNCcgd2lkdGg9JzIwJyBoZWlnaHQ9JzE2JyByeD0nMicvPjxwYXRoIGQ9J20yIDcgMTAgNiAxMC02Jy8+PC9zdmc+" alt="Email" loading="lazy" /></a>
 </p>
-
 
 ## 👨🏾‍💻 About Me
 
@@ -57,33 +56,32 @@ I'm an Electronic and Computer Engineering graduate from the University of Notti
 ![Arduino](https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 
-## My Projects
 
+## Projects
+### Project Demos
 <p align="center">
-  <a href="https://github.com/Onafuwadav/ros2-warehouse-inspector"><img width="400" src="https://github-stats-extended.vercel.app/api/pin/?username=Onafuwadav&repo=ros2-warehouse-inspector&theme=shades-of-purple&description_lines_count=3" /></a>
-  <a href="https://github.com/Onafuwadav/Chess_bot"><img width="400" src="https://github-stats-extended.vercel.app/api/pin/?username=Onafuwadav&repo=Chess_bot&theme=shades-of-purple&description_lines_count=3" /></a>
-  <br>
-  <a href="https://onafuwadav.github.io/ros2-warehouse-inspector/"><img width="400" src="assets/demo-ros.svg" /></a>
   <a href="https://onafuwadav.github.io/Chess_bot/"><img width="400" src="assets/demo-chess.svg" /></a>
+  <a href="https://onafuwadav.github.io/uk-electricity-demand-forecast/"><img width="400" src="assets/demo-forecaster.svg" /></a>
+  <!-- <a href="https://onafuwadav.github.io/ros2-warehouse-inspector/"><img width="400" src="assets/demo-ros.svg" /></a> -->
 </p>
 
 <p align="center">
-  <a href="https://github.com/Onafuwadav/autofocus"><img width="400" src="https://github-stats-extended.vercel.app/api/pin/?username=Onafuwadav&repo=autofocus&theme=shades-of-purple&description_lines_count=3" /></a>
-  <a href="https://github.com/Onafuwadav/pulse-oximeter"><img width="400" src="https://github-stats-extended.vercel.app/api/pin/?username=Onafuwadav&repo=pulse-oximeter&theme=shades-of-purple&description_lines_count=3" /></a>
-  <br>
   <a href="https://onafuwadav.github.io/"><img width="400" src="assets/demo-autofocus.svg" /></a>
   <a href="https://onafuwadav.github.io/"><img width="400" src="assets/demo-oximeter.svg" /></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Onafuwadav/vtk-vr-cad-viewer"><img width="400" src="https://github-stats-extended.vercel.app/api/pin/?username=Onafuwadav&repo=vtk-vr-cad-viewer&theme=shades-of-purple&description_lines_count=3" /></a>
-  <a href="https://github.com/Onafuwadav/attention-news-classifier"><img width="400" src="https://github-stats-extended.vercel.app/api/pin/?username=Onafuwadav&repo=attention-news-classifier&theme=shades-of-purple&description_lines_count=3" /></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Onafuwadav/uk-electricity-demand-forecast"><img width="400" src="https://github-stats-extended.vercel.app/api/pin/?username=Onafuwadav&repo=uk-electricity-demand-forecast&theme=shades-of-purple&description_lines_count=3" /></a>
-  <a href="https://github.com/Onafuwadav/EEEBot"><img width="400" src="https://github-stats-extended.vercel.app/api/pin/?username=Onafuwadav&repo=EEEBot&theme=shades-of-purple&description_lines_count=3" /></a>
-  <br>
-  <a href="https://onafuwadav.github.io/uk-electricity-demand-forecast/"><img width="400" src="assets/demo-forecaster.svg" /></a>
   <a href="https://onafuwadav.github.io/"><img width="400" src="assets/demo-eeebot.svg" /></a>
 </p>
+
+
+### Project Code
+<p align="center">
+  <a href="https://github.com/Onafuwadav/ros2-warehouse-inspector"><img width="320" src="https://github-stats-extended.vercel.app/api/pin/?username=Onafuwadav&repo=ros2-warehouse-inspector&theme=shades-of-purple&description_lines_count=3" /></a>
+  <a href="https://github.com/Onafuwadav/Chess_bot"><img width="320" src="https://github-stats-extended.vercel.app/api/pin/?username=Onafuwadav&repo=Chess_bot&theme=shades-of-purple&description_lines_count=3" /></a>
+  <a href="https://github.com/Onafuwadav/uk-electricity-demand-forecast"><img width="320" src="https://github-stats-extended.vercel.app/api/pin/?username=Onafuwadav&repo=uk-electricity-demand-forecast&theme=shades-of-purple&description_lines_count=3" /></a>
+  <a href="https://github.com/Onafuwadav/attention-news-classifier"><img width="300" src="https://github-stats-extended.vercel.app/api/pin/?username=Onafuwadav&repo=attention-news-classifier&theme=shades-of-purple&description_lines_count=3" /></a>  
+  <a href="https://github.com/Onafuwadav/EEEBot"><img width="300" src="https://github-stats-extended.vercel.app/api/pin/?username=Onafuwadav&repo=EEEBot&theme=shades-of-purple&description_lines_count=3" /></a>
+  <a href="https://github.com/Onafuwadav/autofocus"><img width="300" src="https://github-stats-extended.vercel.app/api/pin/?username=Onafuwadav&repo=autofocus&theme=shades-of-purple&description_lines_count=3" /></a>
+<a href="https://github.com/Onafuwadav/pulse-oximeter"><img width="400" src="https://github-stats-extended.vercel.app/api/pin/?username=Onafuwadav&repo=pulse-oximeter&theme=shades-of-purple&description_lines_count=3" /></a>
+  <a href="https://github.com/Onafuwadav/vtk-vr-cad-viewer"><img width="400" src="https://github-stats-extended.vercel.app/api/pin/?username=Onafuwadav&repo=vtk-vr-cad-viewer&theme=shades-of-purple&description_lines_count=3" /></a>
+</p>
+
+
