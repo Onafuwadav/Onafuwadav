@@ -8,13 +8,13 @@
   <a href="mailto:Donafuwa@outlook.com"><img src="https://img.shields.io/badge/Email-0078D4?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCcgZmlsbD0nbm9uZScgc3Ryb2tlPScjZmZmJyBzdHJva2Utd2lkdGg9JzInIHN0cm9rZS1saW5lY2FwPSdyb3VuZCcgc3Ryb2tlLWxpbmVqb2luPSdyb3VuZCc+PHJlY3QgeD0nMicgeT0nNCcgd2lkdGg9JzIwJyBoZWlnaHQ9JzE2JyByeD0nMicvPjxwYXRoIGQ9J20yIDcgMTAgNiAxMC02Jy8+PC9zdmc+" alt="Email" loading="lazy" /></a>
 </p>
 
+
 ## 👨🏾‍💻 About Me
 
 I'm an Electronic and Computer Engineering graduate from the University of Nottingham with a strong interest in software engineering, robotics and AI.
 
 - 📍 Based in **London**
 - 🔭 Currently building: **[Simulated ROS 2 warehouse inspection robot](https://github.com/Onafuwadav/ros2-warehouse-inspector)**
-- 🌱 Learning: **ROS 2, Gazebo**
 - 🎯 Open to: Graduate and entry level **SWE, robotics** and **embedded** engineer roles
 
 
@@ -23,9 +23,9 @@ I'm an Electronic and Computer Engineering graduate from the University of Notti
 ### 🏫 Electronic and Computer Engineering · University of Nottingham
 **2022 – 2026**
 
-- 🏆 Awards: **IET Future Talent Scholar** (2022 - 2026), **Best Maze Navigation Bot** (2024)
-- 📚 Relevant Modules: Robotics Dynamics & Control, Scalable Cross-Platform Software Design, Sensing Systems and Signal Processing, Applications of AI in EEE, Cybersecurity in EEE
-- 🧑‍🤝‍🧑 Clubs: Debating Union, Fencing Club, ACS, EEESoc
+- 🏆 Awards:
+  * **IET Future Talent Scholar** (2022 - 2026)
+  * **Best Maze Navigation Bot** (University Group Project, 2024)
 
 
 ## 🛠️ Skills & Technologies
@@ -50,22 +50,16 @@ I'm an Electronic and Computer Engineering graduate from the University of Notti
 ![PyTest](https://img.shields.io/badge/PyTest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 ![QT](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 
-### Embedded & Hardware
-![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
-
 
 ## Projects
 ### Project Demos
 <p align="center">
-  <a href="https://onafuwadav.github.io/Chess_bot/"><img width="400" src="assets/demo-chess.svg" /></a>
-  <a href="https://onafuwadav.github.io/uk-electricity-demand-forecast/"><img width="400" src="assets/demo-forecaster.svg" /></a>
+  <a href="https://onafuwadav.github.io/Chess_bot/"><img width="300" src="assets/demo-chess.svg" /></a>
+  <a href="https://onafuwadav.github.io/uk-electricity-demand-forecast/"><img width="300" src="assets/demo-forecaster.svg" /></a>
   <!-- <a href="https://onafuwadav.github.io/ros2-warehouse-inspector/"><img width="400" src="assets/demo-ros.svg" /></a> -->
-  <a href="https://onafuwadav.github.io/"><img width="400" src="assets/demo-autofocus.svg" /></a>
-  <a href="https://onafuwadav.github.io/"><img width="400" src="assets/demo-oximeter.svg" /></a>
-  <a href="https://onafuwadav.github.io/"><img width="400" src="assets/demo-eeebot.svg" /></a>
+  <a href="https://onafuwadav.github.io/"><img width="300" src="assets/demo-autofocus.svg" /></a>
+  <a href="https://onafuwadav.github.io/"><img width="300" src="assets/demo-oximeter.svg" /></a>
+  <a href="https://onafuwadav.github.io/"><img width="300" src="assets/demo-eeebot.svg" /></a>
 </p>
 
 
