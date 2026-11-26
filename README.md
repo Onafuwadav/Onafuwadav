@@ -63,9 +63,6 @@ I'm an Electronic and Computer Engineering graduate from the University of Notti
   <a href="https://onafuwadav.github.io/Chess_bot/"><img width="400" src="assets/demo-chess.svg" /></a>
   <a href="https://onafuwadav.github.io/uk-electricity-demand-forecast/"><img width="400" src="assets/demo-forecaster.svg" /></a>
   <!-- <a href="https://onafuwadav.github.io/ros2-warehouse-inspector/"><img width="400" src="assets/demo-ros.svg" /></a> -->
-</p>
-
-<p align="center">
   <a href="https://onafuwadav.github.io/"><img width="400" src="assets/demo-autofocus.svg" /></a>
   <a href="https://onafuwadav.github.io/"><img width="400" src="assets/demo-oximeter.svg" /></a>
   <a href="https://onafuwadav.github.io/"><img width="400" src="assets/demo-eeebot.svg" /></a>
@@ -74,12 +71,12 @@ I'm an Electronic and Computer Engineering graduate from the University of Notti
 
 ### Project Code
 <p align="center">
-  <a href="https://github.com/Onafuwadav/ros2-warehouse-inspector"><img width="320" src="https://github-stats-extended.vercel.app/api/pin/?username=Onafuwadav&repo=ros2-warehouse-inspector&theme=shades-of-purple&description_lines_count=3" /></a>
-  <a href="https://github.com/Onafuwadav/Chess_bot"><img width="320" src="https://github-stats-extended.vercel.app/api/pin/?username=Onafuwadav&repo=Chess_bot&theme=shades-of-purple&description_lines_count=3" /></a>
-  <a href="https://github.com/Onafuwadav/uk-electricity-demand-forecast"><img width="320" src="https://github-stats-extended.vercel.app/api/pin/?username=Onafuwadav&repo=uk-electricity-demand-forecast&theme=shades-of-purple&description_lines_count=3" /></a>
-  <a href="https://github.com/Onafuwadav/attention-news-classifier"><img width="300" src="https://github-stats-extended.vercel.app/api/pin/?username=Onafuwadav&repo=attention-news-classifier&theme=shades-of-purple&description_lines_count=3" /></a>  
-  <a href="https://github.com/Onafuwadav/EEEBot"><img width="300" src="https://github-stats-extended.vercel.app/api/pin/?username=Onafuwadav&repo=EEEBot&theme=shades-of-purple&description_lines_count=3" /></a>
-  <a href="https://github.com/Onafuwadav/autofocus"><img width="300" src="https://github-stats-extended.vercel.app/api/pin/?username=Onafuwadav&repo=autofocus&theme=shades-of-purple&description_lines_count=3" /></a>
+  <a href="https://github.com/Onafuwadav/ros2-warehouse-inspector"><img width="400" src="https://github-stats-extended.vercel.app/api/pin/?username=Onafuwadav&repo=ros2-warehouse-inspector&theme=shades-of-purple&description_lines_count=3" /></a>
+  <a href="https://github.com/Onafuwadav/Chess_bot"><img width="400" src="https://github-stats-extended.vercel.app/api/pin/?username=Onafuwadav&repo=Chess_bot&theme=shades-of-purple&description_lines_count=3" /></a>
+  <a href="https://github.com/Onafuwadav/uk-electricity-demand-forecast"><img width="400" src="https://github-stats-extended.vercel.app/api/pin/?username=Onafuwadav&repo=uk-electricity-demand-forecast&theme=shades-of-purple&description_lines_count=3" /></a>
+  <a href="https://github.com/Onafuwadav/attention-news-classifier"><img width="400" src="https://github-stats-extended.vercel.app/api/pin/?username=Onafuwadav&repo=attention-news-classifier&theme=shades-of-purple&description_lines_count=3" /></a>  
+  <a href="https://github.com/Onafuwadav/EEEBot"><img width="400" src="https://github-stats-extended.vercel.app/api/pin/?username=Onafuwadav&repo=EEEBot&theme=shades-of-purple&description_lines_count=3" /></a>
+  <a href="https://github.com/Onafuwadav/autofocus"><img width="400" src="https://github-stats-extended.vercel.app/api/pin/?username=Onafuwadav&repo=autofocus&theme=shades-of-purple&description_lines_count=3" /></a>
 <a href="https://github.com/Onafuwadav/pulse-oximeter"><img width="400" src="https://github-stats-extended.vercel.app/api/pin/?username=Onafuwadav&repo=pulse-oximeter&theme=shades-of-purple&description_lines_count=3" /></a>
   <a href="https://github.com/Onafuwadav/vtk-vr-cad-viewer"><img width="400" src="https://github-stats-extended.vercel.app/api/pin/?username=Onafuwadav&repo=vtk-vr-cad-viewer&theme=shades-of-purple&description_lines_count=3" /></a>
 </p>
